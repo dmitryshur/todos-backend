@@ -1,0 +1,2 @@
+[global.databases]
+todo = {url = "postgres://shurikdima:112358@localhost:5432/todo"}
